@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akmaral/Desktop/TP2/Recherche/page.cpp
+page.hpp
+/home/akmaral/Desktop/TP2/Recherche/page.hpp
+algorithm
+-
+assert.h
+-
+stdlib.h
+-
+iostream
+-
+bits/stdc++.h
+-
+
+/home/akmaral/Desktop/TP2/Recherche/page.hpp
+vector
+-
+resultat.hpp
+/home/akmaral/Desktop/TP2/Recherche/resultat.hpp
+
+/home/akmaral/Desktop/TP2/Recherche/resultat.hpp
+string
+-
+

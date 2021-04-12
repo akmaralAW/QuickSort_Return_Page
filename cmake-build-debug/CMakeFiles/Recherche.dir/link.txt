@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Recherche.dir/page.cpp.o CMakeFiles/Recherche.dir/resultat.cpp.o CMakeFiles/Recherche.dir/tests.cpp.o  -o Recherche 

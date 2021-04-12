@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Recherche" targetName="Recherche" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dee83ec0-c0e8-4014-ae67-276794cc0932" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1keznIPRh6KITVtaMsa0uuhGuSD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Monstres" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Recherche" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Recherche" TARGET_NAME="Recherche" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Recherche" RUN_TARGET_NAME="Recherche">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee83ec0-c0e8-4014-ae67-276794cc0932" name="Default Changelist" comment="" />
+      <created>1606076010105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606076010105</updated>
+      <workItem from="1606076011253" duration="2028000" />
+      <workItem from="1606138230649" duration="9166000" />
+      <workItem from="1606171947523" duration="9286000" />
+      <workItem from="1606233534526" duration="3202000" />
+      <workItem from="1606236964096" duration="605000" />
+      <workItem from="1606324312818" duration="7123000" />
+      <workItem from="1606351591893" duration="5448000" />
+      <workItem from="1606418317495" duration="10390000" />
+      <workItem from="1606433790551" duration="4656000" />
+      <workItem from="1606488479441" duration="1877000" />
+      <workItem from="1606747296569" duration="627000" />
+      <workItem from="1606842061140" duration="833000" />
+      <workItem from="1606845188087" duration="2809000" />
+      <workItem from="1607013664504" duration="37000" />
+      <workItem from="1607015520815" duration="766000" />
+      <workItem from="1607022967755" duration="28000" />
+      <workItem from="1607311587805" duration="94000" />
+      <workItem from="1607311926414" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="295" width="424" height="484" key="FileChooserDialogImpl" timestamp="1606752879034">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state x="656" y="295" width="424" height="484" key="FileChooserDialogImpl/67.27.1613.1023@67.27.1613.1023" timestamp="1606752879034" />
+    <state width="1567" height="355" key="GridCell.Tab.0.bottom" timestamp="1607312021019">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="1567" height="355" key="GridCell.Tab.0.bottom/67.27.1613.1023@67.27.1613.1023" timestamp="1607312021019" />
+    <state width="1567" height="355" key="GridCell.Tab.0.center" timestamp="1607312021019">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="1567" height="355" key="GridCell.Tab.0.center/67.27.1613.1023@67.27.1613.1023" timestamp="1607312021019" />
+    <state width="1567" height="355" key="GridCell.Tab.0.left" timestamp="1607312021019">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="1567" height="355" key="GridCell.Tab.0.left/67.27.1613.1023@67.27.1613.1023" timestamp="1607312021019" />
+    <state width="1567" height="355" key="GridCell.Tab.0.right" timestamp="1607312021019">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="1567" height="355" key="GridCell.Tab.0.right/67.27.1613.1023@67.27.1613.1023" timestamp="1607312021019" />
+    <state x="529" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1607311931722">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state x="529" y="365" key="com.intellij.ide.util.TipDialog/67.27.1613.1023@67.27.1613.1023" timestamp="1607311931722" />
+  </component>
+</project>
